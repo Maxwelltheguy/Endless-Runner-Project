@@ -100,6 +100,7 @@ public class Player : MonoBehaviour
         else
         {
             anim.SetBool("Falling", false);
+            
         }
 
         lastYPos = transform.position.y;
@@ -110,6 +111,7 @@ public class Player : MonoBehaviour
         jump = false;
         rb.velocity = new Vector2(rb.velocity.x, 0);
         rb.AddForce(new Vector2(0, jumpHeight), ForceMode2D.Impulse);
+        sfxManager.PlaySFX("Jump");
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -126,6 +128,7 @@ public class Player : MonoBehaviour
         {
             collectedCoins++;
             Destroy(collision.gameObject);
+            sfxManager.PlaySFX("Coin");
         }
         if (collision.CompareTag("AirJump"))
         {
@@ -137,6 +140,7 @@ public class Player : MonoBehaviour
         {
             Instantiate(sheildPrefab, parent:transform);
             Destroy(collision.gameObject);
+
         }
     }
 }

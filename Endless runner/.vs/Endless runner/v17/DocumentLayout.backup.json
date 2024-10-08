@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\02MAXWELL.MOSS\\Documents\\Development\\Endless runner\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Documents\\Development\\Endless runner\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|c:\\users\\02maxwell.moss\\documents\\development\\endless runner\\assets\\scripts\\sfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|c:\\users\\02maxwell.moss\\documents\\development\\endless runner\\assets\\scripts\\uicontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Documents\\Development\\Endless runner\\assets\\scripts\\uicontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Documents\\Development\\Endless runner\\assets\\scripts\\backdropscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backdropscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Documents\\Development\\Endless runner\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Documents\\Development\\Endless runner\\assets\\scripts\\obstaclecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,24 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SFXManager.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Documents\\Development\\Endless runner\\Assets\\Scripts\\SFXManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SFXManager.cs",
               "ToolTip": "C:\\Users\\02MAXWELL.MOSS\\Documents\\Development\\Endless runner\\Assets\\Scripts\\SFXManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\SFXManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T14:35:52.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EnvironmentController.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Documents\\Development\\Endless runner\\Assets\\Scripts\\EnvironmentController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnvironmentController.cs",
@@ -75,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BackdropScroll.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Documents\\Development\\Endless runner\\Assets\\Scripts\\BackdropScroll.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BackdropScroll.cs",
@@ -99,15 +99,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Documents\\Development\\Endless runner\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
               "ToolTip": "C:\\Users\\02MAXWELL.MOSS\\Documents\\Development\\Endless runner\\Assets\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAuwHsAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T14:39:23.59Z"
+              "WhenOpened": "2024-09-10T14:39:23.59Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -135,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UIContoller.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Documents\\Development\\Endless runner\\Assets\\Scripts\\UIContoller.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIContoller.cs",
@@ -143,12 +144,11 @@
               "RelativeToolTip": "Assets\\Scripts\\UIContoller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T15:09:36.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T15:09:36.276Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "CameraController.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Documents\\Development\\Endless runner\\Assets\\Scripts\\CameraController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",

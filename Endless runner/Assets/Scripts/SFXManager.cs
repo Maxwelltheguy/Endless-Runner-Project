@@ -7,7 +7,8 @@ public class SFXManager : MonoBehaviour
     [SerializeField] AudioSource audioSource;
     [SerializeField] AudioClip coinSFX;
     [SerializeField] AudioClip jumpSFX;
-    
+    [SerializeField] AudioClip sheildObtainSFX;
+    [SerializeField] AudioClip getHitSFX;
     
     public void PlaySFX(string clipToPlay)
     {
@@ -18,6 +19,14 @@ public class SFXManager : MonoBehaviour
         if(clipToPlay == "Jump")
         {
             audioSource.clip = jumpSFX;
+        }
+        if(clipToPlay == "PowerupSheild")
+        {
+            audioSource.clip = sheildObtainSFX;
+        }
+        if (clipToPlay == "Hit")
+        {
+            audioSource.clip = getHitSFX;
         }
         //if(clipToPlay == "Land")
         //{

@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Player : MonoBehaviour
@@ -50,7 +51,7 @@ public class Player : MonoBehaviour
     {
         if (isGrounded == true || airJump == true)
         {
-            if (Input.GetKeyDown(KeyCode.Space))
+            if (Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown((int)MouseButton.Left))
             {
                 if(airJump == true && isGrounded == false)
                 {
@@ -118,6 +119,7 @@ public class Player : MonoBehaviour
     {
         if (collision.transform.CompareTag("obstacle"))
         {
+            sfxManager.PlaySFX("Hit");
             uiController.ShowGameOverScreen();
         }
     }

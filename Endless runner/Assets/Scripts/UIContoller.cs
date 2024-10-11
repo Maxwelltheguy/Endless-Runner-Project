@@ -12,9 +12,11 @@ public class UIContoller : MonoBehaviour
     [SerializeField] Player player;
     [SerializeField] TextMeshProUGUI coinsCollected;
     [SerializeField] GameObject gameMusic;
+    [SerializeField] GameObject sky;
 
     public void ShowGameOverScreen()
     {
+        sky.SetActive(false);
         gameOverScreen.SetActive(true);
         gameMusic.SetActive(false);
         float roundedDistance = Mathf.Ceil(player.distanceTraveled);

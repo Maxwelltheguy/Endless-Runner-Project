@@ -12,7 +12,23 @@ public class SFXManager : MonoBehaviour
     
     public void PlaySFX(string clipToPlay)
     {
-        if(clipToPlay == "Coin")
+        switch(clipToPlay)
+        {
+            case "Coin":
+                audioSource.clip = coinSFX;
+                break;
+            case "Jump":
+                audioSource.clip = jumpSFX;
+                break;
+            case "PowerupSheild":
+                audioSource.clip = sheildObtainSFX;
+                break;
+            case "Hit":
+                audioSource.clip = getHitSFX;
+                break;
+        }
+
+        /*if(clipToPlay == "Coin")
         {
             audioSource.clip = coinSFX;
         }
@@ -31,7 +47,7 @@ public class SFXManager : MonoBehaviour
         //if(clipToPlay == "Land")
         //{
         //    audioSource.clip = landSFX;
-        //}
+        //}*/
 
         audioSource.Play();
     }

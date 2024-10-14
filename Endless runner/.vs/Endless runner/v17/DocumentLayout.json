@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\assets\\scripts\\uicontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|c:\\users\\02maxwell.moss\\desktop\\repos\\endless-runner-project\\endless runner\\assets\\scripts\\sky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\assets\\scripts\\sfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,24 +11,36 @@
       "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstaclecode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\assets\\scripts\\environmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\assets\\scripts\\backdropscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backdropscroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\assets\\scripts\\environmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\environmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\assets\\scripts\\sfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sfxmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\assets\\scripts\\sky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sky.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|c:\\users\\02maxwell.moss\\desktop\\repos\\endless-runner-project\\endless runner\\assets\\scripts\\uicontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontoller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\assets\\scripts\\platformcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\assets\\scripts\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\assets\\scripts\\platformcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\platformcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01F7C3E6-7BD5-32A3-E364-F07A95D24D9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,36 +50,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Sky.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\Assets\\Scripts\\Sky.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Sky.cs",
               "ToolTip": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\Assets\\Scripts\\Sky.cs",
               "RelativeToolTip": "Assets\\Scripts\\Sky.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T14:31:49.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "SFXManager.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\Assets\\Scripts\\SFXManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SFXManager.cs",
               "ToolTip": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\Assets\\Scripts\\SFXManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\SFXManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T14:35:52.331Z"
+              "WhenOpened": "2024-10-08T14:35:52.331Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "EnvironmentController.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\Assets\\Scripts\\EnvironmentController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnvironmentController.cs",
@@ -87,11 +88,12 @@
               "RelativeToolTip": "Assets\\Scripts\\EnvironmentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T14:32:27.059Z"
+              "WhenOpened": "2024-10-07T14:32:27.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "BackdropScroll.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\Assets\\Scripts\\BackdropScroll.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BackdropScroll.cs",
@@ -99,11 +101,12 @@
               "RelativeToolTip": "Assets\\Scripts\\BackdropScroll.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T15:04:08.47Z"
+              "WhenOpened": "2024-10-04T15:04:08.47Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ObstacleCode.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\Assets\\Scripts\\ObstacleCode.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObstacleCode.cs",
@@ -111,19 +114,21 @@
               "RelativeToolTip": "Assets\\Scripts\\ObstacleCode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-03T14:47:04.699Z"
+              "WhenOpened": "2024-10-03T14:47:04.699Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
               "ToolTip": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\Assets\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAD4vzUAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T14:39:23.59Z"
+              "WhenOpened": "2024-09-10T14:39:23.59Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -133,25 +138,27 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Platform.cs",
               "ToolTip": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\Assets\\Scripts\\Platform.cs",
               "RelativeToolTip": "Assets\\Scripts\\Platform.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T14:42:59.992Z"
+              "WhenOpened": "2024-09-12T14:42:59.992Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "PlatformCreator.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\Assets\\Scripts\\PlatformCreator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlatformCreator.cs",
               "ToolTip": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\Assets\\Scripts\\PlatformCreator.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlatformCreator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T14:57:16.519Z"
+              "WhenOpened": "2024-09-12T14:57:16.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "UIContoller.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\Assets\\Scripts\\UIContoller.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UIContoller.cs",
@@ -164,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CameraController.cs",
               "DocumentMoniker": "C:\\Users\\02MAXWELL.MOSS\\Desktop\\Repos\\Endless-Runner-Project\\Endless runner\\Assets\\Scripts\\CameraController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",

@@ -81,8 +81,7 @@ public class Player : MonoBehaviour
                 anim.SetBool("is grounded", false);
                 anim.SetBool("Falling", true);
             }
-            //Debug.Log(hit.transform.name);
-            //Debug.DrawRay(raycastOrigin.position, Vector2.down, Color.yellow);
+            
         }
         else
         {
